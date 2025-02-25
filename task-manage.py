@@ -138,8 +138,8 @@ class TaskManager:
                 self.list_tasks()
             elif choice == "4":
                 task_id = int(input("Enter task ID to delete: "))
-                self.delete_task(task_id)
-            elif choice == "5":
+                self.delete_task(task_id)ergsdjvildnflnk
+            elif choice == "5":edgvdbftdfbfgtd
                 task_id = int(input("Enter task ID to mark as completed: "))
                 self.mark_completed(task_id)
             elif choice == "6":
