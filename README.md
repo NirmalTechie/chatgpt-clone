@@ -1,4 +1,4 @@
-
+Function 
 Creating a sample clone website of ChatGPT involves understanding the core functionalities of OpenAI's ChatGPT and replicating its features with similar technology stacks. A ChatGPT clone website is essentially an AI-powered chatbot that processes natural language inputs, generates human-like responses, and interacts dynamically with users. Such a system requires integration of AI models, backend processing, front-end UI design, and server infrastructure to ensure smooth performance and scalability.
 
 
