@@ -10,7 +10,8 @@ To develop a ChatGPT clone website, one must first decide on the technology stac
 
 The front-end of a ChatGPT clone website is crucial for user engagement and accessibility. Modern front-end frameworks like React.js, Next.js, Vue.js, or Angular can be used to create an interactive UI. The user interface should include a text input box, a chatbot response area, and a well-structured message display system. Additional features such as voice input, markdown support, file uploads, and dark mode can enhance usability.
 
-Deployment of a ChatGPT clone website requires setting up a hosting environment. Cloud providers such as AWS, Google Cloud, Azure, or Vercel offer scalable hosting solutions. Docker and Kubernetes can be used for containerization and orchestration, ensuring the chatbot runs efficiently across different environments. Security measures like HTTPS, authentication (JWT, OAuth), and rate limiting are essential to prevent abuse and unauthorized access.
+Deployment of a ChatGPT clone website requires setting up a hosting environment. Cloud providers such as AWS, Google Cloud, Azure, or Vercel offer scalable hosting solutions. Docker and Kubernetes can be used for containerization and orchestration, ensuring the chatbot runs efficiently across different environments. Security measures like HTTPS, authentication (JWT, OAuth), and rate limiting are 
+essential to prevent abuse and unauthorized access.
 
 A key aspect of building a ChatGPT clone is optimizing response generation. GPT-based models require fine-tuning, prompt engineering, and temperature control to produce high-quality responses.
 A well-structured database can store user interactions, enabling improvements through retrieval-augmented generation (RAG) and context-aware conversation history. Integrating vector databases like Pinecone, FAISS, or Weaviate can improve search and retrieval functions, allowing for more personalized interactions.
