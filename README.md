@@ -6,6 +6,7 @@ Creating a sample clone website of ChatGPT involves understanding the core funct
 
 
 
+
 To develop a ChatGPT clone website, one must first decide on the technology stack. Common choices for the backend include Python (Django, Flask, or FastAPI), Node.js (Express.js, NestJS), or Ruby on Rails. These frameworks provide robust support for handling HTTP requests, user authentication, and database management
  The AI model itself can be powered by OpenAI's GPT API, Hugging Face Transformers, or custom-trained models using TensorFlow or PyTorch. For storage and database management, options such as PostgreSQL, MongoDB, Firebase, or MySQL can be considered.
 
