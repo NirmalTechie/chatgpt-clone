@@ -10,7 +10,7 @@ h
   g
 ChatGPT clone website is essentially an AI-powered chatbot that processes natural language inputs, generates human-like responses , and interacts dynamically with users. Such a system requires integration of AI models, backend processing, front-end UI de 
 sign, and server infrastructure to ensure smooth performance and scalability.
-
+g
 
 
 To develop a ChatGPT clone website, one must first decide on the technology stack. Common choices for the backend include Python (Django, Flask, or FastAPI), Node.js (Express.js, NestJS), or Ruby on Rails. These frameworks provide robust support for handling HTTP requests, user authentication, and database management
